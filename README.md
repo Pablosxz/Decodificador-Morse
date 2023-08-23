@@ -8,4 +8,4 @@ O Decodificador Morse é uma aplicação de interface gráfica desenvolvida em P
 - Tradução de texto para código Morse.
 
 # Contribuição
-Este projeto foi desenvolvido por mim e outros alunos durante a disciplina de Programação Orientada a Objetos (consultar o arquivo "sobre.py" para mais informações sobre os contribuidores e o projeto.)
+Este projeto foi desenvolvido por mim e outros alunos durante a disciplina de Programação Orientada a Objetos (consultar o arquivo "sobre.py" para mais informações sobre os contribuintes e o projeto em si.)
